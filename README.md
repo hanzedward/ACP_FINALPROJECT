@@ -49,9 +49,13 @@ python main.py
 
 ### Step 4: Use the Application
 a. Add Tasks: Enter a task in the input field and click "Save" to add it to your list.
+
 b. Mark as Completed: Select tasks and mark them as completed.
+
 c. View Task History: Navigate to the history screen to view all completed tasks.
+
 d. Dark/Light Mode: Toggle between light and dark themes using the mode switch.
+
 
 ### Step 5: Troubleshooting
 a. If the application fails to start, ensure all dependencies are correctly installed.
